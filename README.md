@@ -38,6 +38,9 @@ Example Response:
     "currency": "EUR"
 }
 
+![API](https://github.com/rrodenas/Price_Service-Technical-test-for-Inditex/blob/main/API.png)
+
+![H2Console](https://github.com/rrodenas/Price_Service-Technical-test-for-Inditex/blob/main/H2Console.png)
 
 
 
