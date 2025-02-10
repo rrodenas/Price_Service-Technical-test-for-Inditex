@@ -38,6 +38,9 @@ GET http://localhost:8080/prices?productId=35455&brandId=1&date=2020-06-14T16:00
     "currency": "EUR"
 }
 
+![image](https://github.com/user-attachments/assets/ef3ae4bc-06af-4694-b0a3-6a45ae95c49d)
+![image](https://github.com/user-attachments/assets/8110f36f-e796-48b4-8bca-6e95e3906d01)
+
 
 
 
