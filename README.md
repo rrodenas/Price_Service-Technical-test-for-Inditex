@@ -38,5 +38,19 @@ Example Response:
     "currency": "EUR"
 }
 
+```
+
+---
+## 📸 API Response Screenshot
+Here is an example of the API response in the browser:
+
+![API Response](docs/API.png)
+
+## 📸 Console Output Screenshot
+Below is a screenshot of the application running in the console:
+
+![Console Output](docs/H2Console.png)
+
+
 
 
