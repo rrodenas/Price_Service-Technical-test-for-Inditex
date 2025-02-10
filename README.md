@@ -1,4 +1,4 @@
-# Price Service - Technical Test for Inditex
+# Price Service - Technical Test for fashion retail brand.
 
 This is a **Spring Boot REST API** that retrieves the correct product price based on the requested date, product ID, and brand ID.  
 It uses an **H2 in-memory database** and applies priority rules to select the applicable price.
