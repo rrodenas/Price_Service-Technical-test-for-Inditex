@@ -27,7 +27,7 @@ It uses an **H2 in-memory database** and applies priority rules to select the ap
 ```bash
 GET http://localhost:8080/prices?productId=35455&brandId=1&date=2020-06-14T16:00:00
 
-#### Example Response:
+Example Response:
 {
     "productId": 35455,
     "brandId": 1,
@@ -38,6 +38,7 @@ GET http://localhost:8080/prices?productId=35455&brandId=1&date=2020-06-14T16:00
     "currency": "EUR"
 }
 
+![image](https://github.com/user-attachments/assets/066941ad-0266-4b34-9cd5-3c8a4f9f3376)
 
 
 
