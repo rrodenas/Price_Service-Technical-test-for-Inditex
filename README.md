@@ -27,7 +27,7 @@ It uses an **H2 in-memory database** and applies priority rules to select the ap
 ```bash
 GET http://localhost:8080/prices?productId=35455&brandId=1&date=2020-06-14T16:00:00
 
-Example Response:
+#### Example Response:
 {
     "productId": 35455,
     "brandId": 1,
