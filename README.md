@@ -38,8 +38,6 @@ Example Response:
     "currency": "EUR"
 }
 
-![image](https://github.com/user-attachments/assets/066941ad-0266-4b34-9cd5-3c8a4f9f3376)
-
 
 
 
